@@ -1,5 +1,7 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="30%" height="300" />
+  <img src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" width="30%" height="300" />
+  <img src="https://media.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif" width="30%" height="300" />
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/vigolajnen" target="_blank">
