@@ -1,9 +1,9 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="30%"  />
-  <img src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" width="30%" />
-  <img src="https://media.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif" width="30%" />
+<div id="header" align="left" width="100%">
+  <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="0%"  />
+  <img src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" width="50%" />
+  <img src="https://media.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif" width="0%" />
 </div>
-<div id="badges" align="center">
+<div id="badges" align="left">
   <a href="https://t.me/vigolajnen" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Мой telegram"/>
   </a>
@@ -11,10 +11,10 @@
     <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Мой vk"/>
   </a>
 </div>
-<div align="center">
+<div align="left">
   <img src="https://komarev.com/ghpvc/?username=vigolajnen&style=flat-square&color=blue" alt=""/>
 </div>
-<h1 align="center">
+<h1 align="left">
   Привет
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
